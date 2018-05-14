@@ -1,0 +1,11 @@
+/client
+/server/target
+/server/.classpath
+/server/.project
+/target/
+.classpath
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.project
+README.md
+.settings/org.eclipse.core.resources.prefs
